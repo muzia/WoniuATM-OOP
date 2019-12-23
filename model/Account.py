@@ -8,3 +8,4 @@ class Account(object):
         self.account_nickname = ""
         self.account_pwd = ""
         self.account_balance = 0.0
+
